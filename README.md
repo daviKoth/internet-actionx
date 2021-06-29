@@ -1,2 +1,2 @@
-# internet-actionx
+# internet actionx
 ActionX for Wi-Fi
